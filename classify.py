@@ -8,7 +8,7 @@ from pyimagesearch.hog import HOG
 from pyimagesearch import dataset
 import argparse
 import mahotas
-import cv2
+import cv2#used to import python cv2 library
 
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
